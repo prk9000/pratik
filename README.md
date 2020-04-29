@@ -17,6 +17,8 @@
 	<body>
 	<h1>Pratik Ghogardare</h1>
 	<p>To be a part of an organization where my technical skills are best utilized in order to achieve success</p>
+	<a href=a</a><br>
+	<a href=b</a>
 	<h2>EDUCATION</h2>
 	<table style=width:50%>
 	<tr>
